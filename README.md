@@ -1,6 +1,6 @@
 # thesis-MultifeatureApp
 
-## Multi-Feature Eye-Driven Viewport
+** Multi-Feature Eye-Driven Viewport **
 
 A Python-based application developed as part of a diploma thesis at the University of Patras.
 
